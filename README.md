@@ -1,13 +1,10 @@
 Data Analytics of Kaggle E-commerce Dataset
 
 What I have done:
-As partial requirement for completion of a 60-hr training course –  “Introduction to Python and Big Data Analysis,” I have analyzed
-an e-commerce data set obtained from Kaggle. I asked some questions and tried to find the answers for those questions. To that 
-extent, I identified some problems and opportunities by exploring the data set.
+As partial requirement for completion of a 60-hr training course –  “Introduction to Python and Big Data Analysis” at Centre for Development of IT Professionals (CDIP) at United International University (UIU) I analyzed an e-commerce data set obtained from Kaggle. I asked some questions and tried to find the answers for those questions. To that extent, I identified some problems and opportunities by exploring the data set.
 
-Tools that I have used:
-In part-I, I used PostgreSQL to extract insights. Then, I graphically represented them using Excel in part-II. The file contains
-the postgres codes and insights (part-I).
+Tools that I used:
+In part-I, I used PostgreSQL to extract insights. Then, I graphically represented them using Excel in part-II. The file contains the postgres codes and insights (part-I).
 
 Description of the data set
 The dataset contains records of actual transactions of a registered non-store online retail company based in the UK from 2010 
