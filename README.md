@@ -1,4 +1,4 @@
-Data Analytics of Kaggle E-commerce Dataset
+Data Analysis of Kaggle E-commerce Dataset
 
 What I have done:
 As partial requirement for completion of a 60-hr training course –  “Introduction to Python and Big Data Analysis” at the Centre for Development of IT Professionals (CDIP) at United International University (UIU), I analyzed an e-commerce data set obtained from Kaggle. I asked some questions and tried to find the answers for those questions. To that extent, I identified some problems and opportunities by exploring the data set.
